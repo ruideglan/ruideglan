@@ -1,4 +1,4 @@
-## Olá friends, sou o Ruideglan Lucena 👋
+## Hello Friends, sou o Ruideglan Lucena 👋
 
 - 🔭 Trabalhando como Analista de Suporte N2
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas
@@ -42,14 +42,12 @@ site com badges: https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
 ##
-<div>
+[![Blog](https://img.shields.io/website?label=Ruideglan.com&style=for-the-badge&url=https://www.ruideglan.com/)](https://www.ruideglan.com/)
 <a href="https://linkedin.com/in/ruideglan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/ruideglan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://ruideglan.com"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
 <a href="https://youtube.com/@ruideglanoficial"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://t.me/ruideglan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/5561983409985"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ruideglan/ruideglan/blob/output/github-snake-dark.svg" />
