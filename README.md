@@ -3,6 +3,7 @@
 - 🔭 Analista de Suporte
 - 🌱 Análise e Desenvolvimento de Sistemas
 - 📫 ruideglan.com
+
 ## Summary
 <div>
     <picture>
