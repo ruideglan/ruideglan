@@ -3,7 +3,7 @@
 - 🔭 Analista de Suporte
 - 🌱 Análise e Desenvolvimento de Sistemas
 - 📫 ruideglan.com
-##
+## Summary
 <div>
     <picture>
     <source
@@ -39,8 +39,8 @@
 </div>
 site com badges: https://dev.to/envoy_/150-badges-for-github-pnk
 -->
+## Tech Skills
 
-##
 ## Social Media
 [![Blog](https://img.shields.io/website?label=Ruideglan.com&style=for-the-badge&url=https://www.ruideglan.com/)](https://www.ruideglan.com/)
 <a href="https://linkedin.com/in/ruideglan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
