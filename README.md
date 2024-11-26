@@ -3,7 +3,6 @@
 - 🔭 Trabalhando como Analista de Suporte N2
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: contato@ruideglan.com
-- 😄 Pronouns: ele/dele
 ##
 <div>
     <picture>
