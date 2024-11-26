@@ -48,7 +48,7 @@ site com badges: https://dev.to/envoy_/150-badges-for-github-pnk
 
 
 ## Social Media
-[![Blog](https://img.shields.io/website?label=Ruideglan.com&style=for-the-badge&url=https://www.ruideglan.com/)](https://www.ruideglan.com/)
+<a href="https://www.ruideglan.com"><img src="https://img.shields.io/badge/ruideglan.com-2B7A69?style=for-the-badge&logo=chrome&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/ruideglan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/ruideglan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://youtube.com/@ruideglanoficial"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
