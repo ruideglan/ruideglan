@@ -1,8 +1,8 @@
 ## Hello Friends, sou o Ruideglan Lucena 👋
 
-- 🔭 Trabalhando como Analista de Suporte
-- 🌱 Estudando Analise e Desenvolvimento de Sistemas
-- 📫 Contate-me no email: contato@ruideglan.com
+- 🔭 Analista de Suporte
+- 🌱 Análise e Desenvolvimento de Sistemas
+- 📫 ruideglan.com
 ##
 <div>
     <picture>
@@ -41,6 +41,7 @@ site com badges: https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
 ##
+## Social Media
 [![Blog](https://img.shields.io/website?label=Ruideglan.com&style=for-the-badge&url=https://www.ruideglan.com/)](https://www.ruideglan.com/)
 <a href="https://linkedin.com/in/ruideglan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/ruideglan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
