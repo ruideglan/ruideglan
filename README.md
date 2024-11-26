@@ -50,7 +50,14 @@ site com badges: https://dev.to/envoy_/150-badges-for-github-pnk
 <a href="https://wa.me/5561983409985"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ruideglan/ruideglan/blob/output/github-snake-dark.svg">
+  <img alt="Github-Snake" src="https://github.com/ruideglan/ruideglan/blob/output/github-snake.svg">
+</picture>
+
+<!--
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ruideglan/ruideglan/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ruideglan/ruideglan/blob/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+-->
