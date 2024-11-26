@@ -42,6 +42,9 @@ site com badges: https://dev.to/envoy_/150-badges-for-github-pnk
 
 ## Tech Skills
 <a href=""><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
+<a href=""><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" target="_blank"></a>
+<a href=""><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" target="_blank"></a>
+<a href=""><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" target="_blank"></a>
 
 ## Social Media
 [![Blog](https://img.shields.io/website?label=Ruideglan.com&style=for-the-badge&url=https://www.ruideglan.com/)](https://www.ruideglan.com/)
