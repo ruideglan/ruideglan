@@ -1,6 +1,6 @@
 ## Hello Friends, sou o Ruideglan Lucena 👋
 
-- 🔭 Trabalhando como Analista de Suporte N2
+- 🔭 Trabalhando como Analista de Suporte
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: contato@ruideglan.com
 ##
