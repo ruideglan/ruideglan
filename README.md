@@ -39,7 +39,7 @@
 </div>
 site com badges: https://dev.to/envoy_/150-badges-for-github-pnk
 -->
-##
+
 ## Tech Skills
 <a <a href=""><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
 
